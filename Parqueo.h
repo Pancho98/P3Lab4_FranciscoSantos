@@ -24,6 +24,7 @@ class Parqueo{
 		double getAltura();
 		void setAltura(double);
 		Carro**** getParqueo();
+		void Parquear(Carro*);
 
 		//Destructor
 		~Parqueo();
