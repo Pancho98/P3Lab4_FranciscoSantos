@@ -48,7 +48,8 @@ int main(){
 				   }
 				   break;
 			case 4:{
-
+					   parqueo->~Parqueo();
+					   cout<<"Tenga buen dia"<<endl;
 				   }
 				   break;
 		}
